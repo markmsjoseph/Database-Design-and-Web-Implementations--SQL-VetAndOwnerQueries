@@ -1,0 +1,6 @@
+name,type,breed,sex,date_of_birth,vet_id,owner_id, address_id
+tom,dog,poodle,male,2013/5/11,1,1,1
+garry,dog,poodle,female,2011/6/21,3,2,2
+bil,cat,,female,2005/3/10,2,3,3
+spike,dog,pitbull,male,2007/9/12,1,4,4
+super,dog,german sheppard,female,2015/2/2,3,5,5
